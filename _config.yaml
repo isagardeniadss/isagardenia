@@ -1,1 +1,6 @@
+title: Isa Gardênia | QA e Acessibilidade Digital
+description: Aprenda QA e Acessibilidade que geram impacto real. Guias técnicos sobre testes, padrões WCAG e construção de produtos inclusivos.
 theme: jekyll-theme-cayman
+lang: pt-BR
+url: https://isagardeniadss.github.io
+baseurl: "/isagardenia"  
